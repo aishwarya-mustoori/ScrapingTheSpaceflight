@@ -5,7 +5,7 @@ import requests
 import datetime
 from collections import defaultdict
 
-#Code for assesing multiple rows in rowspan is insipired from stckoverflow link: 
+#Code for assesing multiple rows in rowspan is insipired from an online link: 
 #https://stackoverflow.com/questions/28763891/what-should-i-do-when-tr-has-rowspan
 #first three methods only. Rest personal code
 def process(table):
